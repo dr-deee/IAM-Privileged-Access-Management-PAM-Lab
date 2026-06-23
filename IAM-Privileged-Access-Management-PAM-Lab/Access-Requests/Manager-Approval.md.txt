@@ -1,0 +1,27 @@
+# Manager Approval
+
+## Request ID
+
+PAM-001
+
+## Requestor
+
+Sarah Finance
+
+## Reviewer
+
+David Manager
+
+## Decision
+
+Approved
+
+## Comments
+
+Business justification reviewed and approved.
+
+Temporary administrative access may be granted.
+
+## Approval Status
+
+Approved

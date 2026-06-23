@@ -1,0 +1,23 @@
+# IAM Approval
+
+## Request ID
+
+PAM-001
+
+## Reviewer
+
+IAM Admin
+
+## Decision
+
+Approved
+
+## Comments
+
+Access request validated.
+
+Temporary privileged access approved.
+
+## Approval Status
+
+Approved

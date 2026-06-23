@@ -1,0 +1,33 @@
+# Privileged Access Request
+
+## Request ID
+
+PAM-001
+
+## Requestor
+
+Sarah Finance
+
+## Department
+
+Finance
+
+## Access Requested
+
+Server_Admins
+
+## Business Justification
+
+Temporary administrative access is required to support a Finance application deployment.
+
+## Requested Duration
+
+7 Days
+
+## Request Status
+
+Pending Approval
+
+## Date Submitted
+
+June 2026
